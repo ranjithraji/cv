@@ -553,9 +553,7 @@ background-color:transparent;
 .top img {display:block;margin:auto;}
 .top .w3schools-logo {position:relative;top:0;width:100%;text-align:center;margin:auto}
 .toptext {width:100%;text-align:center}
-#sidenav {width:260px;
-box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-}
+#sidenav {width:260px;/* box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); */}
 #sidenav h2 {font-size:26px;width:100%;}
 #sidenav a {padding:3px 2px 3px 24px;font-size:17px;}
 
@@ -599,9 +597,7 @@ box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     .top img {display:block;margin:auto;}
     .top .resume-logo {position:relative;top:0;width:100%;text-align:center;margin:auto}
     .toptext {width:100%;text-align:center}
-#sidenav {	width: 199px;
-box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-}
+#sidenav {width: 199px;/* box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); */}
    html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit;}
 
 #main {padding:16px}
